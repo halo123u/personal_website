@@ -1,0 +1,26 @@
+nav{
+    background:red;
+    height: 65vh;
+    width: 20vw;
+    float: left;
+    
+}
+#headerImg {
+    background: green;
+    width: 80vw;
+    height: 65vh;
+    float: right;
+}
+#profilePic{
+    position: absolute;
+    top: 300px;
+    left: 500px;
+}
+#content{
+    width: 100vw;
+}
+.clearfix:after {
+  content: '';
+  display: table;
+  clear: both;
+}
