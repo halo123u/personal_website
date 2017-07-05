@@ -52,6 +52,13 @@ nav > h1{
   clear: both;
 }
 footer{
-    background: white;
-    width: 100%;
+    background: white;      
+    width: 100%;    
+}   
+footer > ul li{
+    display: inline;
+    color: rgb(22, 15, 82);;
+}
+li:hover{
+    color: rgb(0,0,0);
 }
