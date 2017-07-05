@@ -1,6 +1,6 @@
 # Personal Portfolio Page
 ## Page Screenshot
-![Screenshot] (./screenshot.png)
+![Screenshot](screenshot.png)
 
 ##Technologies used
 * Float(CSS)
