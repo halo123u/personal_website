@@ -1,5 +1,5 @@
 # Personal Portfolio Page
-##Page Screenshot
+## Page Screenshot
 ![Screenshot] (./screenshot.png)
 
 ##Technologies used
